@@ -1,4 +1,4 @@
-At [CloudPilot AI](https://cloudpilot.ai), we believe that by integrating cloud-native, open-source, and AI technologies, we can build a highly resilient and cost-effective infrastructure automation management platform. This platform ensures that every penny a company invests in the cloud generates maximum value. Our critical core code is open-source, and anyone can use it for free.
+At [CloudPilot AI](https://cloudpilot.ai), we are committed to integrating cloud-native, open-source, and AI technologies to develop a resilient and cost-effective infrastructure automation platform. This platform maximizes the value of every dollar a company invests in the cloud. Our core code is open-source and freely accessible to everyone.
 
 ## Projects
 We welcome contributions to the following projects:
