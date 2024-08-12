@@ -6,4 +6,4 @@ We welcome contributions to the following projects:
 * [karpenter-provider-alicloud](https://github.com/cloudpilot-ai/karpenter-provider-alicloud): Alibaba Cloud Karpenter Provider.
 
 ## Work with us
-f you choose to contribute to any of our projects, we would love to work with you and help hone your PRs to near perfection.
+If you choose to contribute to any of our projects, we would love to work with you and help hone your PRs to near perfection.
