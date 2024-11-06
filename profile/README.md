@@ -3,7 +3,8 @@ At [CloudPilot AI](https://cloudpilot.ai), we are committed to integrating cloud
 ## Projects
 We welcome contributions to the following projects:
 * [karpenter-core](https://github.com/kubernetes-sigs/karpenter): Karpenter core code.
-* [karpenter-provider-alicloud](https://github.com/cloudpilot-ai/karpenter-provider-alicloud): Alibaba Cloud Karpenter Provider.
+* [karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud): Alibaba Cloud Karpenter Provider.
+* [karpenter-provider-gcp](https://github.com/cloudpilot-ai/karpenter-provider-gcp): Google Cloud Karpenter Provider.
 
 ## Connect with us
 
