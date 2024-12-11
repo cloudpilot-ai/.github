@@ -1,3 +1,9 @@
+<div style="text-align: center">
+  <p align="center">
+    <img src="img/banner.jpg" with="100%">
+  </p>
+</div>
+
 At [CloudPilot AI](https://cloudpilot.ai), we are committed to integrating cloud-native, open-source, and AI technologies to develop a resilient and cost-effective infrastructure automation platform. This platform maximizes the value of every dollar a company invests in the cloud. Our core code is open-source and freely accessible to everyone.
 
 ## Projects
