@@ -12,6 +12,9 @@ We welcome contributions to the following projects:
 * [karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud): Alibaba Cloud Karpenter Provider.
 * [karpenter-provider-gcp](https://github.com/cloudpilot-ai/karpenter-provider-gcp): Google Cloud Karpenter Provider.
 
+
+We also offer a tool to analyze spot insights across different cloud providers. Visit [spot.cloudpilot.ai](https://spot.cloudpilot.ai) for more details.
+
 ## Connect with us
 
 If you have any questions, please reach out to us through the following channels:
