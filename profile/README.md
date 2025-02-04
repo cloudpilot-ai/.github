@@ -11,6 +11,8 @@ We welcome contributions to the following projects:
 * [karpenter-core](https://github.com/kubernetes-sigs/karpenter): Karpenter core code.
 * [karpenter-provider-alibabacloud](https://github.com/cloudpilot-ai/karpenter-provider-alibabacloud): Alibaba Cloud Karpenter Provider.
 * [karpenter-provider-gcp](https://github.com/cloudpilot-ai/karpenter-provider-gcp): Google Cloud Karpenter Provider.
+* [karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws): AWS Karpenter Provider.
+* [karpenter-provider-azure](https://github.com/Azure/karpenter-provider-azure): Azure Karpenter Provider.
 
 
 We also offer a tool to analyze spot insights across different cloud providers. Visit [spot.cloudpilot.ai](https://spot.cloudpilot.ai) for more details.
