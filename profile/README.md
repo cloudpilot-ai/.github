@@ -13,6 +13,7 @@ We welcome contributions to the following projects:
 * [karpenter-provider-gcp](https://github.com/cloudpilot-ai/karpenter-provider-gcp): Google Cloud Karpenter Provider.
 * [karpenter-provider-aws](https://github.com/aws/karpenter-provider-aws): AWS Karpenter Provider.
 * [karpenter-provider-azure](https://github.com/Azure/karpenter-provider-azure): Azure Karpenter Provider.
+* [karpenter-provider-tke](https://github.com/TencentCloud/karpenter-provider-tke): Tencent Cloud Karpenter Provider.
 
 
 We also offer a tool to analyze spot insights across different cloud providers. Visit [spot.cloudpilot.ai](https://spot.cloudpilot.ai) for more details.
