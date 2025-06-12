@@ -21,8 +21,8 @@ We also offer a tool to analyze spot insights across different cloud providers. 
 ## Connect with us
 
 If you have any questions, please reach out to us through the following channels:
-- [Slack about CloudPilot AI](https://app.slack.com/client/T073TAAS5FW/C073J7ECB9C)
-- [Slack about Karpenter](https://app.slack.com/client/T09NY5SBT/C02SFFZSA2K)
+- [Slack about CloudPilot AI](https://join.slack.com/t/cloudpilotai/shared_invite/zt-36q9wpyol-N2X3izL~HZcf1_QSko6~6Q)
+- [Slack about Karpenter](https://join.slack.com/t/cloudpilotai/shared_invite/zt-36q9wpyol-N2X3izL~HZcf1_QSko6~6Q)
 
 ## Work with us
 If you choose to contribute to any of our projects, we would love to work with you and help hone your PRs to near perfection.
